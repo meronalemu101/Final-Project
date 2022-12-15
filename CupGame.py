@@ -21,7 +21,7 @@ cupB = visual.ImageStim(win, "cupB.png")
 cupC = visual.ImageStim(win, "cupC.png")
 
 # Print a message to the user
-print("Can you guess where the ball is hiding from under three cups? You have five trials to guess the correct cup.")
+print("Can you guess where the ball is hiding from under three cups? You have five tries to guess the correct cup.")
 
 # Shuffle the cups
 cups = [cupA, cupB, cupC]
